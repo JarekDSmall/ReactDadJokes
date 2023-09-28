@@ -18,3 +18,15 @@
   background-color: #ccc;
   cursor: not-allowed;
 }
+
+.JokeList-reset {
+  margin: 1em 0;
+  font-size: 150%;
+  border-radius: 0.5em;
+  background-color: tomato;
+  color: white;
+}
+
+.JokeList-reset:hover {
+  background-color: #d32f2f;
+}
